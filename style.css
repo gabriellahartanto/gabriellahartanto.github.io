@@ -288,6 +288,7 @@ a:active {
 }
 
 .footer {
+  margin-top: 2rem;
   background-color: black;
   font-family: "sfpro";
   color: white;
